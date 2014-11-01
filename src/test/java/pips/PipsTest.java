@@ -123,6 +123,11 @@ public class PipsTest {
         assertEquals(bd("-56.780000"), pips.getBigFigure(bd("-56.781250")));
     }
 
+    @Test
+    public void testHello() {
+	assertEquals(bd("5.0"), bd("6.01"));
+    }
+
 
     private BigDecimal bd(String s) {
         return new BigDecimal(s);
