@@ -3,7 +3,7 @@
   <groupId>com.icap</groupId>
   <artifactId>pips</artifactId>
   <packaging>jar</packaging>
-  <version>1.16</version>
+  <version>1.16-SNPAPSHOT</version>
   <name>pips</name>
 
   <url>http://maven.apache.org</url>
@@ -13,8 +13,7 @@
   </properties>
 
   <scm>
-    <developerConnection>scm:git:git@github.com/chelck/pips.git</developerConnection>
-    <tag>pips-1.16</tag>
+    <developerConnection>scm:git:https://github.com/chelck/pips.git</developerConnection>
   </scm>
 
   <build>
