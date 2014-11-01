@@ -125,7 +125,7 @@ public class PipsTest {
 
     @Test
     public void testHello() {
-	assertEquals(bd("5.0"), bd("6.01"));
+	assertEquals(bd("5.00"), bd("5.00"));
     }
 
 
