@@ -3,7 +3,7 @@
   <groupId>com.icap</groupId>
   <artifactId>pips</artifactId>
   <packaging>jar</packaging>
-  <version>1.16-SNPAPSHOT</version>
+  <version>1.16-SNAPSHOT</version>
   <name>pips</name>
 
   <url>http://maven.apache.org</url>
