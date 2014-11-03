@@ -13,7 +13,7 @@
   </properties>
 
   <scm>
-    <developerConnection>scm:git:https://github.com/chelck/pips.git</developerConnection>
+    <developerConnection>scm:git:git://github.com/chelck/pips.git</developerConnection>
     <tag>HEAD</tag>
   </scm>
 
